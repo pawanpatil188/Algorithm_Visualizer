@@ -16,6 +16,7 @@ A web-based **Algorithm Visualizer** built using **HTML, CSS, and JavaScript** t
 -  Multiple Sorting Algorithms Supported:
       Includes a wide range of fundamental sorting algorithms for comparison and study:
         Bubble Sort – Simple comparison-based algorithm.
+   <br/>
         Selection Sort – Selects the minimum element and places it in the correct position.
         Insertion Sort – Builds the final sorted array one item at a time.
         Merge Sort – Efficient, divide-and-conquer based sorting.
