@@ -4,16 +4,22 @@ A web-based **Algorithm Visualizer** built using **HTML, CSS, and JavaScript** t
 
 ## 🚀 Features
 
--  Real-time visualization of sorting algorithms  
--  User-friendly and interactive UI  
--  Adjustable speed control  
--  Array size customizations  
--  Multiple sorting algorithms included:
-  - Bubble Sort
-  - Selection Sort
-  - Insertion Sort
-  - Merge Sort
-  - Quick Sort
+-  Real-Time Sorting Visualization
+      Visualize the internal workings of popular sorting algorithms in real-time.    
+-  Interactive and User-Friendly Interface
+      Users can easily interact with the system to initiate sorting processes, select algorithms, or modify parameters.  
+-  Adjustable Speed Control
+      Allows users to slow down or speed up the visualization, making it suitable for both beginners and advanced learners.
+-  Array Size Customization
+      Adjust the size of the array to visualize sorting behavior with different data volumes.
+    
+-  Multiple Sorting Algorithms Supported:
+      Includes a wide range of fundamental sorting algorithms for comparison and study:
+        Bubble Sort – Simple comparison-based algorithm.
+        Selection Sort – Selects the minimum element and places it in the correct position.
+        Insertion Sort – Builds the final sorted array one item at a time.
+        Merge Sort – Efficient, divide-and-conquer based sorting.
+        Quick Sort – Highly efficient, recursive partition-based algorithm.
 
 ## 🛠 Tech Stack
 
