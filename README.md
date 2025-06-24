@@ -13,8 +13,7 @@ A web-based **Algorithm Visualizer** built using **HTML, CSS, and JavaScript** t
 -  Array Size Customization
       Adjust the size of the array to visualize sorting behavior with different data volumes.
     
--  Multiple Sorting Algorithms Supported:
--  <br/>
+-  Multiple Sorting Algorithms Supported:<br/>
       Includes a wide range of fundamental sorting algorithms for comparison and study:<br/>
         Bubble Sort – Simple comparison-based algorithm.
    <br/>
