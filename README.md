@@ -3,6 +3,7 @@
 A web-based **Algorithm Visualizer** built using **HTML, CSS, and JavaScript** that allows users to visualize how different sorting algorithms work step-by-step in real time. This educational tool is perfect for students, educators, and developers looking to understand or teach sorting algorithm logic in an interactive and intuitive way.
 
 ##🚀 Features
+
 Real-Time Sorting Visualization
     - Visualize the internal workings of popular sorting algorithms in real-time.
 
