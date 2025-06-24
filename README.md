@@ -14,12 +14,13 @@ A web-based **Algorithm Visualizer** built using **HTML, CSS, and JavaScript** t
       Adjust the size of the array to visualize sorting behavior with different data volumes.
     
 -  Multiple Sorting Algorithms Supported:
-      Includes a wide range of fundamental sorting algorithms for comparison and study:
+-  <br/>
+      Includes a wide range of fundamental sorting algorithms for comparison and study:<br/>
         Bubble Sort – Simple comparison-based algorithm.
    <br/>
-        Selection Sort – Selects the minimum element and places it in the correct position.
-        Insertion Sort – Builds the final sorted array one item at a time.
-        Merge Sort – Efficient, divide-and-conquer based sorting.
+        Selection Sort – Selects the minimum element and places it in the correct position.<br/>
+        Insertion Sort – Builds the final sorted array one item at a time.<br/>
+        Merge Sort – Efficient, divide-and-conquer based sorting.<br/>
         Quick Sort – Highly efficient, recursive partition-based algorithm.
 
 ## 🛠 Tech Stack
